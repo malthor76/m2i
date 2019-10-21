@@ -3,7 +3,7 @@ var choix=document.getElementById('choix');
 var validation= document.getElementById('validation');
 var devise1=document.getElementById('devise');
 var historique = document.getElementById('historique');
-
+//jygjugyjgt
 
 var histo = document.getElementById('histo');
 
